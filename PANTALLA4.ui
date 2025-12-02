@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>538</width>
+    <height>469</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>10</y>
+     <width>161</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OPCION 2 : TOMAR EVALUACION</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>331</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>📝 INICIA LA EVALUACIÓN
+Escribe solo la letra de tu respuesta.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>60</y>
+     <width>391</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>1. ¿Qué propiedad de POO permite que una clase herede atributos y métodos?
+a) Encapsulamiento
+b) Herencia
+c) Polimorfismo
+Respuesta: b
+✔ Correcto</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>160</y>
+     <width>511</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>2. ¿Qué propiedad permite que varios objetos usen el mismo método pero con comportamiento distinto?
+a) Polimorfismo
+b) Abstracción
+c) Herencia
+Respuesta: a
+✔ Correcto</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>250</y>
+     <width>351</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>3. ¿Qué propiedad oculta detalles internos para mostrar solo lo esencial?
+a) Abstracción
+b) Encapsulamiento
+c) Polimorfismo
+Respuesta: a
+✔ Correcto</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>340</y>
+     <width>351</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>4. ¿Qué propiedad controla el acceso a los datos internos de un objeto?
+a) Encapsulamiento
+b) Herencia
+c) Abstracción
+Respuesta: a
+✔ Correcto</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>430</y>
+     <width>171</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tu calificación final es: 4/4</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
