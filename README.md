@@ -15,4 +15,4 @@ Este programa te sirve para comprender y aplicar de manera práctica la Programa
 3 Desarrollar lógica de programación  
     Usas estructuras como listas, diccionarios, ciclos `for`, condicionales `if-elif-else` y validación de entradas.
 
-    [DIAGRAMA DE CLASE](DIAGRAMA.png)
+    ![DIAGRAMA DE CLASE](DIAGRAMA.png)
